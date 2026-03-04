@@ -22,5 +22,4 @@ Features:
 - Product performance reports
 - Sales analytics
 
-🔗 Project Link:
-https://github.com/Muhammadyusuf1007/data-warehouse-sql-project
+🔗 Project Link: https://github.com/Muhammadyusuf1007/data-warehouse-sql-project.git
