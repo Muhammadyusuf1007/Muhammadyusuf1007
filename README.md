@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Muhammadyusuf 👋
 
-<!--
-**Muhammadyusuf1007/Muhammadyusuf1007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Economics & Data Science Student at New Uzbekistan University  
+📊 Aspiring Data Analyst  
+🌍 Interested in Data Analytics, Business Intelligence, and Process Optimization
 
-Here are some ideas to get you started:
+## Skills
+- SQL
+- Python
+- Power BI
+- Tableau
+- Excel
+- Data Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+### 1. SQL Data Warehouse Project
+Building analytical reports using SQL.
+
+Features:
+- Customer behavior analysis
+- Product performance reports
+- Sales analytics
+
+🔗 Project Link:
+https://github.com/Muhammadyusuf1007/data-warehouse-sql-project
